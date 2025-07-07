@@ -23,7 +23,7 @@ Exemple :
 dmitry -winsep example.com
 
 
-### 🔹 WIRESHARK ( analyse des trafics réseau en capturant des paquets en temps réels):
+### 🔹WIRESHARK ( analyse des trafics réseau en capturant des paquets en temps réels):
 -Sert à capturer et examiner tout ce qui transite sur un réseau (HTTP, DNS, TCP, etc.).
 On peut y voir les IP, les ports, les requêtes, etc.
 Étapes :
