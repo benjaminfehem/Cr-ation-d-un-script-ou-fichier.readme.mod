@@ -16,14 +16,14 @@
   Exemple :
   nmap -sV 192.168.1.1
   
-###  🔹 DMITRY (Deepmagic Information Gathering Tool)
+###  🔹 DMITRY (Deepmagic Information Gathering Tool):
 -Permet de collecter passivement des infos sur un domaine : WHOIS, DNS, e-mails, sous-domaines.
 -Idéal pour faire du "footprinting" avant un test de sécurité.
 Exemple :
 dmitry -winsep example.com
 
 
-###🔹 WIRESHARK
+###🔹 WIRESHARK ( analyse des trafics réseau en capturant des paquets en temps réels):
 -Sert à capturer et examiner tout ce qui transite sur un réseau (HTTP, DNS, TCP, etc.).
 On peut y voir les IP, les ports, les requêtes, etc.
 Étapes :
